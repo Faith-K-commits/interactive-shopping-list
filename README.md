@@ -1,6 +1,6 @@
 # Interactive Shopping List
 
-This project is an interactive shopping list application that allows users to add items, mark items as purchased, and clear the list. It also supports editing existing items and uses local storage to save the list even after the page is reloaded.
+This project is an interactive shopping list application that allows users to add items, mark items as purchased, and clear the list. It also supports editing existing items and uses local storage to save the list even after the page is reloaded. Here is the [link](https://wk2-code-challenge.netlify.app/) to the live site.
 
 ## Features
 
